@@ -42,7 +42,7 @@ function MyApp({ Component, pageProps }) {
               }}
             >
               <Link href="/">
-                <a style={{ fontSize: "125%" }}>Home</a>
+                <a style={{ fontSize: "125%" }}>Home page</a>
               </Link>
               <UserButton />
             </div>
